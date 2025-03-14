@@ -1,0 +1,30 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #ff4081;
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    font-size: 36px;
+    color: #ff5722;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+}
+a {
+    color: #673ab7;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff4081;
+    text-decoration: underline;
+}
+img {
+    border: 5px dashed #40ff90;
+    border-radius: 10px;
+}
