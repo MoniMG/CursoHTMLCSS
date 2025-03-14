@@ -1,2 +1,2 @@
-Clase layout 
+Clase layout y tags semánticas
 
