@@ -1,2 +1,2 @@
-Clase layout y tags semánticas
-
+Curso HTML Y CSS: Header, footer y variable CSS
+Generar nueva rama 
